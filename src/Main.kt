@@ -1,10 +1,10 @@
 //TIP コードを<b>実行</b>するには、<shortcut actionId="Run"/> を押すか
 // ガターの <icon src="AllIcons.Actions.Execute"/> アイコンをクリックします。
 fun main() {
-    val name = "Kotlin_test_begin[2024/12/12]"
+    val name = "Kotlin_test_begin 2024/12/12"
 //TIP ハイライトされたテキストにキャレットがある状態で <shortcut actionId="ShowIntentionActions"/> を押すと
 // IntelliJ IDEA によるその修正案を確認できます。
-    println("Hello, $name!")
+    println("Hello, $name !")
 
     for (i in 1..5) {
         //TIP <shortcut actionId="Debug"/> を押してコードのデバッグを開始します。<icon src="AllIcons.Debugger.Db_set_breakpoint"/> ブレークポイントを 1 つ設定しましたが、
